@@ -1,0 +1,28 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
+
+section {
+  padding: 30px;
+}
+
+aside {
+  padding: 30px;
+  background-color: white;
+  border-top: 1px solid #ddd;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 15px;
+}
